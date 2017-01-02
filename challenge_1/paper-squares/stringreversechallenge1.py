@@ -1,2 +1,2 @@
-s= 'hello'
-print s[::-1]
+n = str(raw_input('what would you like to see backwards?:'))
+print n [::-1]
